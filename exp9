@@ -2,7 +2,8 @@ Aim: To Search a Substring in a string by using Navie Algorithm.
 Description: 
 The naive string searching algorithm is the simplest approach to finding a pattern within a given text. 
 The idea is to align the pattern at the beginning of the text and check character by character to see if the entire pattern matches.
-If a mismatch occurs at any position, the algorithm shifts the pattern by one character to the right and repeats the process. This continues until the end of the text is reached.
+If a mismatch occurs at any position, the algorithm shifts the pattern by one character to the right and repeats the process.
+This continues until the end of the text is reached.
 
 
 
