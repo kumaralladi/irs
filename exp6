@@ -1,7 +1,8 @@
 Aim: To implement Building an Inverted Files using Sorted Array than search a documents by using the created Inverted File.
 Description: 
 Definition:
-An Inverted File (or Inverted Index) is a data structure that maps terms (keywords) to their occurrences in documents. It essentially inverts the typical structure of documents containing words into a structure where words point to documents.
+An Inverted File (or Inverted Index) is a data structure that maps terms (keywords) to their occurrences in documents.
+It essentially inverts the typical structure of documents containing words into a structure where words point to documents.
 Structure:
 Dictionary (Vocabulary List): Contains all unique terms in the document collection.
 Posting Lists: For each term, a list of document identifiers (DocIDs) where the term appears
