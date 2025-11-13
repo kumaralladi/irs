@@ -2,7 +2,8 @@ Aim: To implement Signature files by taking 2 documents.
 Description: 
 Signature File in Information Retrieval
 What is a Signature File?
-A Signature File is a classic indexing technique used in Information Retrieval (IR) systems to quickly find documents that may contain a given search term. Instead of storing the entire text, each document is represented by a compact binary signature (bit string) that acts like a fingerprint.
+A Signature File is a classic indexing technique used in Information Retrieval (IR) systems to quickly find documents that may contain a given search term. 
+Instead of storing the entire text, each document is represented by a compact binary signature (bit string) that acts like a fingerprint.
 •	Each bit position in the signature corresponds to a word (or a group of words) in the vocabulary.
 •	If the word is present in the document → bit = 1
 •	If the word is absent → bit = 0
