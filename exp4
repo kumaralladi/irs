@@ -1,4 +1,6 @@
-Aim: To Classification of a set of Text Documents into known classes (You may use any of the Classification algorithms like Naive Bayes, Max Entropy, Rochio’s, Support Vector Machine). Standard Datasets will have to be used to show the results. 
+Aim: To Classification of a set of Text Documents into known classes 
+(You may use any of the Classification algorithms like Naive Bayes, Max Entropy, Rochio’s, Support Vector Machine). 
+Standard Datasets will have to be used to show the results. 
 Description:
 What is Text Classification?
 Text classification is a supervised learning task where the goal is to assign a label or category to a text document based on its content.
