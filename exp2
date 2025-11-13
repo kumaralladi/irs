@@ -1,7 +1,11 @@
 Aim: To Implement Pre-processing of a Text Document: stop word removal and stemming.
 Description:
-Objective: To perform text preprocessing by implementing two fundamental steps: Stop word removal and Stemming. These steps reduce noise in text data and improve the performance of text mining and information retrieval tasks.
-What is Text Preprocessing? Text preprocessing refers to the transformation of raw text into a clean and analyzable format. Stop Word Removal: Stop words are commonly used words (like is, the, and, in, etc.) that carry little meaningful information for analysis. Stemming: Stemming reduces words to their root form (e.g., playing → play). Libraries like NLTK or spaCy can be used
+Objective: To perform text preprocessing by implementing two fundamental steps: Stop word removal and Stemming. 
+These steps reduce noise in text data and improve the performance of text mining and information retrieval tasks.
+What is Text Preprocessing?
+Text preprocessing refers to the transformation of raw text into a clean and analyzable format. 
+Stop Word Removal: Stop words are commonly used words (like is, the, and, in, etc.) that carry little meaningful information for analysis.
+Stemming: Stemming reduces words to their root form (e.g., playing → play). Libraries like NLTK or spaCy can be used
 
 
 
